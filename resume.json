@@ -6,7 +6,7 @@
     "email": "robbie.d.hickey@gmail.com",
     "phone": "(469)-270-0479",
     "website": "",
-    "summary": "I’m a highly motivated and adaptable individual with an enthusiasm for new technologies. My experience outlined below illustrates a persistent and rapid ability to learn on the job and acquire new skills. I believe that my diverse background and skill set constitutes a unique candidate that could begin contributing immediately in a number of capacities, although my passion is programming.",
+    "summary": "I’m a highly motivated and adaptable developer with an enthusiasm for new technologies and a passion for writing elegant software. My experience outlined below illustrates a persistent and rapid ability to learn on the job and acquire new skills. I believe that my skill set constitutes a unique candidate that could begin contributing immediately to delivering solutions for your customers.",
     "location": {
       "address": "7512 Brentwood Ct",
       "postalCode": "76182",
@@ -21,6 +21,37 @@
     }]
   },
   "work": [{
+    "company": "Training Moments, Inc",
+    "position": "Software Consultant",
+    "website": "http://www.eleadership360.com/",
+    "startDate": "2015-07-01",
+    "summary": "TMI provides clients with self and peer evaluation assessments for their employees; their end-user product is a report that outlines not only the results of the individual assessment, but also how their peers rated them. My responsibility was to provide a solution for a new Group Report product, which aggregated data across N number of individual assessments and summarized the data in an easy-to-consume format.",
+    "highlights": [
+      "Provided the client with a product that will create several new revenue streams leveraging the data they already have.",
+      "Significantly simplified and refactored existing reporting logic, resulting in a 75% reduction in total LOC. All reports now derive from a common abstraction, giving future developers a roadmap for how to make enhancements"
+    ]
+  }, {
+    "company": "Ruth Ruhl, P.C.",
+    "position": "Software Consultant",
+    "website": "http://www.rruhllaw.com/",
+    "startDate": "2015-04-01",
+    "summary": "Responsible for all ongoing maintenance and enhancements for multiple client-facing applications.",
+    "highlights": [
+      "Automated a number of manual business proceses, freeing up over 100 man hours/week.",
+      "Implemented continuous integration leveraging TeamCity for all web applications."
+    ]
+  }, {
+    "company": "Nexux Program Management Group",
+    "position": "Software Consultant",
+    "website": "http://www.nexuspmg.com",
+    "startDate": "2015-02-01",
+    "endDate": "2015-06-01",
+    "summary": "Lead development on an MVP initiative for the company called CloudEPC (http://www.cloudepc.com/), which was designed to bring a modern progress tracking approach to large-scale construction projects.",
+    "highlights": [
+      "CloudEPC successfully completed several pilot projects which converted interested parties into full-time clients, providing new revenue streams as well as a full ROI.",
+      "Responsible for the look-and-feel of the application. I also designed the client-side architecture which leveraged KendoUI and its SPA capabilities."
+    ]
+  }, {
     "company": "Thomson Reuters",
     "position": "Senior Software Engineer",
     "website": "http://www.thomsonreuters.com",
@@ -29,10 +60,9 @@
     "summary": "Thomson Reuters presented my first opportunity to work with an international organization. Through this experience I’ve improved upon many of my soft skills and learned to work and communicate effectively with culturally diverse and geographically dispersed teams.",
     "highlights": [
       "Elected as technical representative for UT career fair on multiple occasions due to my communication skills and passion for technology.",
-      "Recognized for outstanding performance in my review thanks to taking over the integration projects from a long-standing employee who left the company.",
       "Contributed pull requests to the front-end framework team, a pan Thomson Reuters initiative to formalize and standardize front end libraries, tooling and best practices.",
       "Added test coverage to all integration points where it was previously non-existent.",
-      "Took over legacy projects left behind from a lead and brought them up to modern development standards, including knowledge sharing and dissemination amongst the team. Because of this they are now no longer owned and supported by an individual, reducing risk for the organization and empowering our teams to be more cross-functional and agile."
+      "Took over all legacy integration projects and updated to modern development standards, which included knowledge sharing and dissemination amongst the team. They are now well understood and documented, reducing risk for the organization and empowering all development teams to be cross-functional and agile."
     ]
   }, {
     "company": "Mortgage Specialst International",
@@ -45,8 +75,7 @@
       "Designed and implemented an API service layer to prepare the company for integration opportunities and mobile applications.",
       "Designed and developed a Continuous Integration solution across all applications, replacing an entirely manual build and deployment process.",
       "Prepared ‘brown bag’ seminars to create an atmosphere of knowledge cultivation and growth.",
-      "Became an evangelist for Agile development methodologies and spearheaded the movement away from Waterfall development. This change enabled the development team to respond more quickly to problems and has earned MSI a reputation in their industry for responsiveness and client satisfaction.",
-      "Designed and implemented an API service layer to prepare the company for integration opportunities and mobile applications."
+      "Became an evangelist for Agile development methodologies and spearheaded the movement away from Waterfall development. This change enabled the development team to respond more quickly to problems and has earned MSI a reputation in their industry for responsiveness and client satisfaction."
     ]
   }, {
     "company": "Mortgage Specialst International",
@@ -78,7 +107,6 @@
     "position": "Volunteer",
     "website": "http://www.themakerspot.org/",
     "startDate": "2015-08-01",
-    "endDate": "",
     "summary": "",
     "highlights": []
   }],
@@ -174,10 +202,17 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Outdoor",
+    "name": "Outdoors",
     "keywords": [
       "Hiking",
-      "Running"
+      "Camping",
+      "Backpacking"
+    ]
+  }, {
+    "name": "Gaming",
+    "keywords": [
+      "Board Games",
+      "PC Games"
     ]
   }],
   "references": [{
