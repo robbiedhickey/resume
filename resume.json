@@ -74,15 +74,13 @@
     ]
   }],
   "volunteer": [{
-    "organization": "CoderDojo",
-    "position": "Teacher",
-    "website": "http://coderdojo.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Global movement of free coding clubs for young people.",
-    "highlights": [
-      "Awarded 'Teacher of the Month'"
-    ]
+    "organization": "The Maker Spot",
+    "position": "Volunteer",
+    "website": "http://www.themakerspot.org/",
+    "startDate": "2015-08-01",
+    "endDate": "",
+    "summary": "",
+    "highlights": []
   }],
   "education": [{
     "institution": "University of Texas at Arlington",
