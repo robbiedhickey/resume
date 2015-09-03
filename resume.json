@@ -4,127 +4,189 @@
     "label": "Programmer",
     "picture": "",
     "email": "robbie.d.hickey@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(469)-270-0479",
+    "website": "",
+    "summary": "I’m a highly motivated and adaptable individual with an enthusiasm for new technologies. My experience outlined below illustrates a persistent and rapid ability to learn on the job and acquire new skills. I believe that my diverse background and skill set constitutes a unique candidate that could begin contributing immediately in a number of capacities, although my passion is programming.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "7512 Brentwood Ct",
+      "postalCode": "76182",
+      "city": "North Richland Hills",
       "countryCode": "US",
-      "region": "California"
+      "region": "TX"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
-      }
-    ]
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "robbie.d.hickey",
+      "url": "https://www.linkedin.com/pub/robbie-hickey/75/6a6/292"
+    }]
   },
-  "work": [
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+  "work": [{
+    "company": "Thomson Reuters",
+    "position": "Senior Software Engineer",
+    "website": "http://www.thomsonreuters.com",
+    "startDate": "2014-06-01",
+    "endDate": "2015-03-01",
+    "summary": "Thomson Reuters presented my first opportunity to work with an international organization. Through this experience I’ve improved upon many of my soft skills and learned to work and communicate effectively with culturally diverse and geographically dispersed teams.",
+    "highlights": [
+      "Elected as technical representative for UT career fair on multiple occasions due to my communication skills and passion for technology.",
+      "Recognized for outstanding performance in my review thanks to taking over the integration projects from a long-standing employee who left the company.",
+      "Contributed pull requests to the front-end framework team, a pan Thomson Reuters initiative to formalize and standardize front end libraries, tooling and best practices.",
+      "Added test coverage to all integration points where it was previously non-existent.",
+      "Took over legacy projects left behind from a lead and brought them up to modern development standards, including knowledge sharing and dissemination amongst the team. Because of this they are now no longer owned and supported by an individual, reducing risk for the organization and empowering our teams to be more cross-functional and agile."
+    ]
+  }, {
+    "company": "Mortgage Specialst International",
+    "position": "Leader Software Engineer",
+    "website": "http://www.msionline.com/",
+    "startDate": "2013-01-01",
+    "endDate": "2014-06-01",
+    "summary": "Upon being promoted to lead engineer, my role became more focused on mentoring and coordination. As the lead, it afforded me credibility to impact decision-making at a higher level, and allowed for greater emphasis on technology evangelism and training within the department.",
+    "highlights": [
+      "Designed and implemented an API service layer to prepare the company for integration opportunities and mobile applications.",
+      "Designed and developed a Continuous Integration solution across all applications, replacing an entirely manual build and deployment process.",
+      "Prepared ‘brown bag’ seminars to create an atmosphere of knowledge cultivation and growth.",
+      "Became an evangelist for Agile development methodologies and spearheaded the movement away from Waterfall development. This change enabled the development team to respond more quickly to problems and has earned MSI a reputation in their industry for responsiveness and client satisfaction.",
+      "Designed and implemented an API service layer to prepare the company for integration opportunities and mobile applications."
+    ]
+  }, {
+    "company": "Mortgage Specialst International",
+    "position": "Software Engineer",
+    "website": "http://www.msionline.com/",
+    "startDate": "2013-01-01",
+    "endDate": "2011-02-01",
+    "summary": "As an entry-level developer, my primary goal was to mitigate the learning curve and add a unique, youthful perspective to the development team. In a short time my resourcefulness transitioned me into a resource for more senior developers in the department.",
+    "highlights": [
+      "Became technical lead for a high-traffic, web-based BPO/Appraisal application which generates $15M in annual revenue. The site supports several integration points via WCF services, and leverages a service bus architecture that enables the business to frictionlessly board new clients and quickly incorporate third-party data providers.",
+      "Enhanced UX on web applications by implementing and standardizing the use of client-side libraries such as Bootstrap/jQuery/KendoUI, as well as training the development staff on their use. This resulted in a much more consistent look and feel, and helped close the knowledge-gap that was forming due to aging skill-sets.",
+      "Became a member of the Architecture Assessment team.",
+      "Refactored the Javascript across all web applications to prevent pollution of the global namespace and to set a standard that encourages code reuse and modularity.",
+    ]
+  }, {
+    "company": "Mortgage Specialst International",
+    "position": "Systems Engineer",
+    "website": "http://www.msionline.com/",
+    "startDate": "2010-02-01",
+    "endDate": "2011-06-01",
+    "summary": "It is difficult to pin a label on a job description during my time at MSI due to the number of concurrent responsibilities I was entrusted with. In my second year I began fulfilling a good deal of Systems duties as MSI does not employ a dedicated administrator. The promotion also afforded me the opportunity to return to school and finish my degree.",
+    "highlights": [
+      "Consolidated 30+ rack-mount servers to 3 hosts leveraging VMWare’s ESXi Hypervisor. This enabled the business to afford rackspace in a SAS 70 approved data center, and opened the door for lucrative contracts with the mortgage industry’s big players.",
+      "Handled RFP and audit related matters for the department thanks to widespread knowledge of the systems and my role in maintaining them."
+    ]
+  }],
+  "volunteer": [{
+    "organization": "CoderDojo",
+    "position": "Teacher",
+    "website": "http://coderdojo.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Global movement of free coding clubs for young people.",
+    "highlights": [
+      "Awarded 'Teacher of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University of Texas at Arlington",
+    "area": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2015-09-01",
+    "endDate": "2012-06-01",
+    "gpa": "3.5",
+    "courses": []
+  }],
+  "awards": [],
+  "publications": [],
+  "skills": [{
+    "name": "Front end",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "TypeScript",
+      "AngularJS",
+      "React",
+      "BackboneJS",
+      "KendoUI",
+      "KnockoutJS",
+      "Bootstrap"
+    ]
+  }, {
+    "name": "Back end",
+    "keywords": [
+      "ASP.NET Web Forms",
+      "ASP.NET MVC",
+      "ASP.NET Web API",
+      "WCF",
+      "Entity Framework",
+      "NHibernate",
+      "SQL Server",
+      "MongoDB",
+      "Silverlight",
+      "Classic ASP",
+      "NServiceBus",
+      "MSMQ",
+      "Windows Services",
+      "NodeJS"
+    ]
+  }, {
+    "name": "Administration",
+    "keywords": [
+      "IIS",
+      "Windows Server",
+      "Active Directory",
+      "Exchange Server",
+      "VMWare ESXi Hypervisor",
+      "Debian flavors of Linux",
+      "Active Directory"
+    ]
+  }, {
+    "name": "Languages",
+    "keywords": [
+      "C#",
+      "Javascript",
+      "TypeScript",
+      "PHP",
+      "T-SQL",
+      "Powershell",
+      "Java",
+      "Python"
+      "bash",
+      "Ruby",
+    ]
+  }, {
+    "name": "Tools",
+    "keywords": [
+      "git",
+      "mercurial",
+      "tfs",
+      "svn",
+      "TeamCity",
+      "CruiseControl.NET",
+      "Jenkins",
+      "npm",
+      "grunt",
+      "gulp",
+      "bower",
+      "browserify",
+      "jasmine",
+      "testem",
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Outdoor",
+    "keywords": [
+      "Hiking",
+      "Running"
+    ]
+  }],
+  "references": [{
+    "name": "Frank Benevento",
+    "reference": ""
+  }, {
+    "name": "Fred Fulcher",
+    "reference": ""
+  }]
 }
