@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Robbie hickey",
-    "label": "Programmer",
-    "picture": "",
+    "name": "Robbie Hickey",
+    "label": "Software Engineer",
+    "picture": "http://i.imgur.com/fpEoSu0.jpg",
     "email": "robbie.d.hickey@gmail.com",
     "phone": "(469)-270-0479",
     "website": "",
@@ -52,14 +52,14 @@
     "company": "Mortgage Specialst International",
     "position": "Software Engineer",
     "website": "http://www.msionline.com/",
-    "startDate": "2013-01-01",
-    "endDate": "2011-02-01",
+    "startDate": "2011-02-01",
+    "endDate": "2013-01-01",
     "summary": "As an entry-level developer, my primary goal was to mitigate the learning curve and add a unique, youthful perspective to the development team. In a short time my resourcefulness transitioned me into a resource for more senior developers in the department.",
     "highlights": [
       "Became technical lead for a high-traffic, web-based BPO/Appraisal application which generates $15M in annual revenue. The site supports several integration points via WCF services, and leverages a service bus architecture that enables the business to frictionlessly board new clients and quickly incorporate third-party data providers.",
       "Enhanced UX on web applications by implementing and standardizing the use of client-side libraries such as Bootstrap/jQuery/KendoUI, as well as training the development staff on their use. This resulted in a much more consistent look and feel, and helped close the knowledge-gap that was forming due to aging skill-sets.",
       "Became a member of the Architecture Assessment team.",
-      "Refactored the Javascript across all web applications to prevent pollution of the global namespace and to set a standard that encourages code reuse and modularity.",
+      "Refactored the Javascript across all web applications to prevent pollution of the global namespace and to set a standard that encourages code reuse and modularity."
     ]
   }, {
     "company": "Mortgage Specialst International",
@@ -148,9 +148,9 @@
       "T-SQL",
       "Powershell",
       "Java",
-      "Python"
+      "Python",
       "bash",
-      "Ruby",
+      "Ruby"
     ]
   }, {
     "name": "Tools",
@@ -168,7 +168,7 @@
       "bower",
       "browserify",
       "jasmine",
-      "testem",
+      "testem"
     ]
   }],
   "languages": [{
