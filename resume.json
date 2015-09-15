@@ -6,7 +6,7 @@
     "email": "robbie.d.hickey@gmail.com",
     "phone": "(469)-270-0479",
     "website": "",
-    "summary": "I’m a highly motivated and adaptable developer with an enthusiasm for new technologies and a passion for writing elegant software. My experience outlined below illustrates a persistent and rapid ability to learn on the job and acquire new skills. I believe that my skill set constitutes a unique candidate that could begin contributing immediately to delivering solutions for your customers.",
+    "summary": "I’m a highly motivated and adaptable developer with an enthusiasm for new technologies and a passion for writing elegant and maintainable software. My experience illustrates a persistent and rapid ability to learn on the job and acquire new skills. I believe that my skill set constitutes a unique candidate that could begin contributing immediately to delivering solutions for your customers.",
     "location": {
       "address": "7512 Brentwood Ct",
       "postalCode": "76182",
@@ -37,19 +37,18 @@
     "startDate": "2015-04-01",
     "summary": "Responsible for all ongoing maintenance and enhancements for multiple client-facing applications.",
     "highlights": [
-      "Automated a number of manual business proceses, freeing up over 100 man hours/week.",
+      "Automated a number of manual business proceses, freeing up over 100 man hours/month.",
       "Implemented continuous integration leveraging TeamCity for all web applications."
     ]
   }, {
-    "company": "Nexux Program Management Group",
+    "company": "Cloud EPC",
     "position": "Software Consultant",
-    "website": "http://www.nexuspmg.com",
+    "website": "http://www.cloudepc.com",
     "startDate": "2015-02-01",
     "endDate": "2015-06-01",
-    "summary": "Lead development on an MVP initiative for the company called CloudEPC (http://www.cloudepc.com/), which was designed to bring a modern progress tracking approach to large-scale construction projects.",
+    "summary": "Cloud EPC is a new and innovative platform designed to manage large-scale construction projects. My role on this project was serving as front-end lead. I was responsible for bringing the project from an un-styled, static concept to a full-functioning, modular and professionally presented application with a delightful user experience. We leveraged ASP.NET MVC 5 and Web API 2 on the server, while utilizing Bootstrap, jQuery and KendoUI on the front-end.",
     "highlights": [
-      "CloudEPC successfully completed several pilot projects which converted interested parties into full-time clients, providing new revenue streams as well as a full ROI.",
-      "Responsible for the look-and-feel of the application. I also designed the client-side architecture which leveraged KendoUI and its SPA capabilities."
+      "CloudEPC successfully completed their pilot projects which converted interested parties into full-time clients, providing new revenue streams as well as a ROI."
     ]
   }, {
     "company": "Thomson Reuters",
@@ -57,12 +56,10 @@
     "website": "http://www.thomsonreuters.com",
     "startDate": "2014-06-01",
     "endDate": "2015-03-01",
-    "summary": "Thomson Reuters presented my first opportunity to work with an international organization. Through this experience I’ve improved upon many of my soft skills and learned to work and communicate effectively with culturally diverse and geographically dispersed teams.",
+    "summary": "Thomson Reuters presented me with my first opportunity to work with an international organization. Through this experience I improved many of my soft skills and learned to work and communicate effectively with culturally diverse and geographically dispersed teams. During my time at Thomson Reuters I was primarily responsible for the integration points between other internal customers, leveraging a variety of technologies both new and old to meet the requirements of our integration partners. Through this work I was able to thoroughly document the integration processes, removing a blind-spot for the organization. I was also able to incorporate test coverage for the integration points, empowering future developers to make changes with confidence.",
     "highlights": [
       "Elected as technical representative for UT career fair on multiple occasions due to my communication skills and passion for technology.",
-      "Contributed pull requests to the front-end framework team, a pan Thomson Reuters initiative to formalize and standardize front end libraries, tooling and best practices.",
-      "Added test coverage to all integration points where it was previously non-existent.",
-      "Took over all legacy integration projects and updated to modern development standards, which included knowledge sharing and dissemination amongst the team. They are now well understood and documented, reducing risk for the organization and empowering all development teams to be cross-functional and agile."
+      "Contributed pull requests to the front-end framework team, a pan Thomson Reuters initiative to formalize and standardize front end libraries, tooling and best practices."
     ]
   }, {
     "company": "Mortgage Specialst International",
